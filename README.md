@@ -31,7 +31,7 @@
 ---
 
 
-<h3 align="center"> 🌱 My SNS 🌱 </h3>
+<h3 align="center"> 💬 My SNS 💬 </h3>
 <p align="center">
   <a href="https://velog.io/@woo_hyun_1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo_hyun_1"/></a>&nbsp
   <a href="https://www.instagram.com/woo_h.king/"><img src="https://img.shields.io/badge/woo_h.king-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo_h.king/"/></a>&nbsp
@@ -39,8 +39,12 @@
 </p>
 <br>
 
+<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHyunKing)](https://github.com/WooHyunKing/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHyunKing&layout=compact)](https://github.com/WooHyunKing/github-readme-stats)
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3474d3&height=200&section=footer)
 
