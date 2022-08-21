@@ -27,6 +27,15 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React Native-0088CC?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
+<br>
+
+<div>
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHyunKing)](https://github.com/WooHyunKing/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHyunKing&layout=compact)](https://github.com/WooHyunKing/github-readme-stats)
+
+</div>
+
 
 ---
 
@@ -39,12 +48,7 @@
 </p>
 <br>
 
-<div>
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHyunKing)](https://github.com/WooHyunKing/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHyunKing&layout=compact)](https://github.com/WooHyunKing/github-readme-stats)
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3474d3&height=200&section=footer)
 
