@@ -54,7 +54,7 @@
 
 <h3 align="center"> 💬 My SNS 💬 </h3>
 <p align="center">
-  <a href="https://velog.io/@woo_hyun_1"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo_hyun_1"/></a>&nbsp
+  <a href="https://woohyun-king.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://woohyun-king.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/woo_h.king/"><img src="https://img.shields.io/badge/woo_h.king-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo_h.king/"/></a>&nbsp
   <img src="https://img.shields.io/badge/ironee1@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
