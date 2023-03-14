@@ -6,7 +6,6 @@
 <h3>I am a software student of Ajou University.</h3>
 <h3>Currently I am studying frontend development.</h3>
 
----
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -21,22 +20,25 @@
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React Native-0088CC?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
-<p align="center">What I am currently studying is...</p>
+<!-- <p align="center">What I am currently studying is...</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=React&logoColor=white"/></a>&nbsp -->
   
 </p>
-<br>
+
 
 <div>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHyunKing)](https://github.com/WooHyunKing/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHyunKing&layout=compact)](https://github.com/WooHyunKing/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHyunKing&layout=compact)](https://github.com/WooHyunKing/github-readme-stats) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ironee1)](https://solved.ac/ironee1/)
+
 
 </div>
 
