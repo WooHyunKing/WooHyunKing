@@ -24,11 +24,11 @@
 </p>
 <br>
 
-<!-- <p align="center">What I am currently studying is...</p>
+<p align="center">What I am currently studying is...</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=React&logoColor=white"/></a>&nbsp -->
+<!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=React&logoColor=white"/></a>&nbsp -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   
 </p>
 
