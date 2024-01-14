@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3474d3&height=150&section=header&text=WooHyunKing&fontColor=ffffff&fontSize=70&animation=twinkling)
 
 <h3>Hello, I'm Woohyun Shin ! 👋</h3>
-<h3>I am a software student of Ajou University.</h3>
-<h3>Currently I am studying frontend development.</h3>
+<h3>I am a front-end developer.</h3>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
